@@ -1,4 +1,4 @@
-module github.com/kyohei-shimada/clock
+module github.com/blue-agency/clock
 
 go 1.13
 
